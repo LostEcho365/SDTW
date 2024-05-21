@@ -1,0 +1,25 @@
+#!/bin/bash
+# The interpreter used to execute the script
+
+#“#SBATCH” directives that convey submission options:
+
+#SBATCH --job-name=example_job
+#SBATCH --mail-type=BEGIN,END
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --time=03:00
+#SBATCH --account=sadasivan
+#SBATCH --partition=mi1004x
+
+# The application(s) to execute along with its input arguments and options:
+
+if [ "$#" -ne 1 ] && [ "$#" -ne 2 ]; then
+    echo "Usage: ./run_tests {program} {test_number}"
+    exit 1
+fi
+
+export LD_LIBRARY_PATH=$PWD/libwb/build/:$LD_LIBRARY_PATH
+
+if [ "$#" -eq  2 ]; then
+    ./$1 -e test/$2/output.raw -n $2 -t vector
+fi

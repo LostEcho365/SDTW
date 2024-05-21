@@ -1,0 +1,192 @@
+[
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbArg.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbArg.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbArg.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbDataset.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbDataset.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbDataset.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbDirectory.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbDirectory.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbDirectory.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbExit.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbExit.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbExit.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbExport.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbExport.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbExport.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbFile.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbFile.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbFile.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbHIP.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbHIP.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbHIP.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbImage.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbImage.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbImage.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbImport.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbImport.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbImport.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbInit.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbInit.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbInit.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbLogger.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbLogger.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbLogger.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbMPI.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbMPI.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbMPI.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbPPM.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbPPM.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbPPM.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbPath.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbPath.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbPath.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbSolution.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbSolution.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbSolution.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbSparse.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbSparse.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbSparse.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbTimer.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbTimer.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbTimer.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/wbUtils.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbUtils.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbUtils.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++  -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wb.dir/vendor/json11.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/vendor/json11.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/vendor/json11.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbArg.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbArg.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbArg.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbDataset.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbDataset.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbDataset.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbDirectory.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbDirectory.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbDirectory.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbExit.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbExit.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbExit.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbExport.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbExport.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbExport.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbFile.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbFile.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbFile.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbHIP.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbHIP.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbHIP.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbImage.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbImage.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbImage.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbImport.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbImport.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbImport.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbInit.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbInit.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbInit.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbLogger.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbLogger.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbLogger.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbMPI.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbMPI.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbMPI.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbPPM.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbPPM.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbPPM.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbPath.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbPath.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbPath.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbSolution.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbSolution.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbSolution.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbSparse.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbSparse.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbSparse.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbTimer.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbTimer.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbTimer.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/wbUtils.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/wbUtils.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/wbUtils.cpp"
+},
+{
+  "directory": "/work1/sadasivan/student29/gpu-final-project/libwb/build",
+  "command": "/opt/ohpc/pub/compiler/gcc/12.2.0/bin/c++ -Dlibwb_EXPORTS -I/work1/sadasivan/student29/gpu-final-project/libwb  -std=c++11 -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/libwb.dir/vendor/json11.cpp.o -c /work1/sadasivan/student29/gpu-final-project/libwb/vendor/json11.cpp",
+  "file": "/work1/sadasivan/student29/gpu-final-project/libwb/vendor/json11.cpp"
+}
+]
